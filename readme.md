@@ -4,11 +4,11 @@
 #### Blog post: 
 https://blogs.technet.microsoft.com/alexef/2018/04/04/visual-studio-c-asp-net-core-web-api-app/
 
-#### примеры/examples:
+#### examples:
 - https://alfnavobjectpermissionsreportnetcorewebapi.azurewebsites.net/api/values
 - https://alfnavobjectpermissionsreportnetcorewebapi.azurewebsites.net/api/values/tabledata/32
 
-#### Литература/Links (Russian):
+#### Links (Russian):
 - https://metanit.com/sharp/tutorial/ 
 - https://metanit.com/sharp/aspnet5/1.1.php
 - https://metanit.com/sharp/entityframeworkcore/1.1.php
